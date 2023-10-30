@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b362ab43-8613-4b88-8610-d43b9904b87d" name="Changes" comment="Task 1&amp;2">
-      <change afterPath="$PROJECT_DIR$/Zad1/Zad1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad4/Zad4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad4/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad4/src/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad4/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad5/Zad5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad5/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad5/src/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zad5/src/Person.java" afterDir="false" />
+    <list default="true" id="b362ab43-8613-4b88-8610-d43b9904b87d" name="Changes" comment="Moved all into one folder">
+      <change afterPath="$PROJECT_DIR$/Zad6/Zad6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad6/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad6/src/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad6/src/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad7/Zad7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad7/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad7/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zad7/src/Database.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,6 +53,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miłosz\Desktop\Git kurwo\Program Obiekt\Lab2\Lab1" />
+      <recent name="C:\Users\Miłosz\Desktop\Git kurwo\Program Obiekt\Lab2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +68,9 @@
       <option name="presentableId" value="Default" />
       <updated>1698624072342</updated>
       <workItem from="1698624073362" duration="8012000" />
-      <workItem from="1698633375903" duration="5120000" />
+      <workItem from="1698633375903" duration="7455000" />
+      <workItem from="1698654766743" duration="2485000" />
+      <workItem from="1698665389002" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, T3L1">
       <option name="closed" value="true" />
@@ -81,7 +88,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698632132136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task 4&amp;5">
+      <option name="closed" value="true" />
+      <created>1698639402191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698639402191</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Moved all into one folder">
+      <option name="closed" value="true" />
+      <created>1698639548005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698639548005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +141,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, T3L1" />
     <MESSAGE value="Task 1&amp;2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1&amp;2" />
+    <MESSAGE value="Task 4&amp;5" />
+    <MESSAGE value="Moved all into one folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved all into one folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
