@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
@@ -7,8 +8,8 @@ Wniosek => jedno jest sortowane po kluczu inne nie
  */
 
 public class App {
-    private HashMap<String, Integer> hashMap = new HashMap<>();
-    private TreeMap<String, Integer> treeMap = new TreeMap<>();
+    private Map<String, Integer> hashMap = new HashMap<>();
+    private Map<String, Integer> treeMap = new TreeMap<>();
 
     public App(){}
 

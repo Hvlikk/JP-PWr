@@ -59,7 +59,7 @@ public class App {
     }
 
     public void sortMap(){
-        Comparator
+        Comparator comparator = new Com
             @Override
             public int compare(Map.Entry<String, Integer> o1, Map.Entry<String, Integer> o2) {
                 return Integer.compare(o1.getValue(), o2.getValue());

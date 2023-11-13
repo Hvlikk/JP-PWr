@@ -4,13 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b362ab43-8613-4b88-8610-d43b9904b87d" name="Changes" comment="Moved all into one folder, added .gitignore files.">
-      <change afterPath="$PROJECT_DIR$/Lab1/Zad8/Zad8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1/Zad8/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1/Zad8/src/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1/Zad8/src/Product.java" afterDir="false" />
+    <list default="true" id="b362ab43-8613-4b88-8610-d43b9904b87d" name="Changes" comment="Added task 8">
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.1/Zad2.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.1/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.1/src/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.1/src/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.2/Zad2.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.2/src/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.2/src/MainWinLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.2/src/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.3/Zad2.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.3/src/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.3/src/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.3/src/MainWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.3/src/MainWinLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.3/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.4/Zad2.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.4/src/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.4/src/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Zad2.4/src/MainWindowLogic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Zad1/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zad1/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Zad2/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zad2/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Zad2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zad2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Zad3/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zad3/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Zad4/src/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zad4/src/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Zad6/Zad6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zad6/Zad6 - not workin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Zad6/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Zad6/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +62,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;graalvm-jdk-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Miłosz/Desktop/git/Program Obiekt/Lab2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,6 +73,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miłosz\Desktop\git\Program Obiekt\Lab2\Lab2" />
       <recent name="C:\Users\Miłosz\Desktop\Git kurwo\Program Obiekt\Lab2\Lab1" />
       <recent name="C:\Users\Miłosz\Desktop\Git kurwo\Program Obiekt\Lab2" />
     </key>
@@ -66,7 +89,10 @@
       <workItem from="1698624073362" duration="8012000" />
       <workItem from="1698633375903" duration="7455000" />
       <workItem from="1698654766743" duration="2485000" />
-      <workItem from="1698665389002" duration="2604000" />
+      <workItem from="1698665389002" duration="3259000" />
+      <workItem from="1698675644284" duration="4073000" />
+      <workItem from="1699739370055" duration="12253000" />
+      <workItem from="1699826657665" duration="8898000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, T3L1">
       <option name="closed" value="true" />
@@ -116,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698666547503</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added task 8">
+      <option name="closed" value="true" />
+      <created>1698668072610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698668072610</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +191,8 @@
     <MESSAGE value="Moved all into one folder" />
     <MESSAGE value="Added task 6&amp;7" />
     <MESSAGE value="Moved all into one folder, added .gitignore files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved all into one folder, added .gitignore files." />
+    <MESSAGE value="Added task 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

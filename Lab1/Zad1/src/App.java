@@ -1,12 +1,9 @@
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Scanner;
-import java.util.TreeSet;
+import java.util.*;
 
 public class App {
 
-    private HashSet<Integer> hashSet = new HashSet<>();
-    private TreeSet<Integer> treeSet = new TreeSet<>();
+    private Set<Integer> hashSet = new HashSet<>();
+    private Set<Integer> treeSet = new TreeSet<>();
     public App(){}
 
         public void runApp() {

@@ -1,14 +1,15 @@
 import java.util.HashSet;
+import java.util.Set;
 
 public class Database {
 
-     private HashSet<Product> database = new HashSet<>();
+    private Set<Product> database = new HashSet<>();
 
     public Database(HashSet<Product> database){
         this.database = database;
     }
 
-    public HashSet<Product> getDatabase() {
+    public Set<Product> getDatabase() {
         return database;
     }
 

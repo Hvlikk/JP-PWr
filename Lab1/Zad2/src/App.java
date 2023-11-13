@@ -1,16 +1,13 @@
 //Stwórz program, który dodaje, usuwa i modyfikuje elementy w dwóch listach typu ArrayList i LinkedList.
 //Następnie zmierz czas wykonywania tych operacji i porównaj wyniki.
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
 
 public class App {
 
     private Integer move = 0;
-    private ArrayList<Student> studentsArrayList = new ArrayList<>();
-    private LinkedList<Student> studentLinkedList = new LinkedList<>();
+    private List<Student> studentsArrayList = new ArrayList<>();
+    private List<Student> studentLinkedList = new LinkedList<>();
 
     public App(){}
 

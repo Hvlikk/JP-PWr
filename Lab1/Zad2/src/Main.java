@@ -6,3 +6,9 @@ public class Main {
         app.runApp();
     }
 }
+
+
+/*
+Wnioski - LinkedList jest szybszy w usuwaniu/dodawaniu
+ArrayList w modyfikowaniu
+ */
